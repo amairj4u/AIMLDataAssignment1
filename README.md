@@ -19,3 +19,6 @@ Acceptance rate for drivers who had income greater than 100K and coupon other th
 Acceptance rate for drivers who received Coffee House coupon, had income greater than 100K and had passengers that were a kid is : 51.85%
 Acceptance rate for drivers who went to Carry out and take away and had income greater than 100K is : 71.43%
 Acceptance rate for drivers who were Alone and other than Carry out & Take away and income > 100k : 51.97%
+
+
+Link to the [notebook](https://github.com/amairj4u/AIMLDataAssignment1/blob/main/prompt.ipynb)
